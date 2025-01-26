@@ -1,0 +1,1 @@
+Functions that have access to the req and res objects and the next middleware Function -> it will call next middleware Function in the stack

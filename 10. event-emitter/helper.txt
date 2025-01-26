@@ -1,0 +1,2 @@
+emit is used to trigger an event
+on is used to add a callback function

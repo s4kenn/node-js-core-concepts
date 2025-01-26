@@ -1,0 +1,16 @@
+package.json manages dependencies (required to run in production) and dev dependencies (only needed for local development and testing)
+contains meta data 
+
+npm init
+
+npm init -y 
+
+npm install <package_name>
+npm update <package_name>
+npm uninstall <package_name>
+
+npm run <script_name>
+
+lodash
+
+scripts mein -> "start"

@@ -1,0 +1,6 @@
+EJS -> Embedded JavaScript
+
+HTML with plain javascript 
+We can generate dynamic html pages in express application
+
+<%= EJS %>

@@ -1,0 +1,3 @@
+to handle async operations with simple syntax | async functions always return a promise | await keyword is used inside async function
+
+await pauses the execution of function until and unless the promise is resolved

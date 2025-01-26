@@ -1,0 +1,12 @@
+Callbacks are functions that are passed as arguments to other functions
+Allow us to differ the execution of code until after an async function has completed
+
+Callback Hell-> AKA Pyramid of DOOM 
+When we have multiple nested Callbacks
+
+setTimeout(()=>{
+    setTimeout(()=>{
+        setTimeout(()=>{ 
+        })
+    })
+})
